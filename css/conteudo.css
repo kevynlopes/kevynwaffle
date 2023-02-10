@@ -1,0 +1,44 @@
+.conteudo {
+  background-color: #a4a4a4;
+  max-width: 1920px;
+  height: 2000px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.conteudo-titulo {
+  font-size: 8rem;
+  text-align: center;
+}
+
+.fundo {
+  background-color: #f5d345;
+  max-width: 1400px;
+  height: 1200px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  display: flex;
+  border-radius: 8px;
+}
+
+.conteudo-principal {
+  max-width: 1400px;
+  height: 1080px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.conteudo-imagem {
+  display: flex;
+  justify-content: center;
+}
+
+.conteudo-ingredientes {
+  display: flex;
+  justify-content: center;
+  font-size: 36px;
+}
+
+.conteudo-preparo {
+  max-width: 80ch;
+}

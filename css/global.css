@@ -1,0 +1,15 @@
+* {
+  color: #242424;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}

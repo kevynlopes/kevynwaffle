@@ -1,0 +1,23 @@
+header {
+  max-width: 1920px;
+  margin: 0 auto;
+  padding: 10px 20px;
+  background-color: #f5d345;
+  height: 110px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.header-menu {
+  display: flex;
+  gap: 80px;
+  align-items: center;
+  list-style: none;
+  text-transform: uppercase;
+  font-size: 1.4rem;
+}
+
+.header-menu a {
+  text-decoration: none;
+}
